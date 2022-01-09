@@ -1,2 +1,2 @@
 # Mapty
-workout tracking app which uses geolocation
+workout tracking app which uses leaflet api
